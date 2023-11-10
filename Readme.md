@@ -11,5 +11,5 @@ pip install -requirements.txr
 ### Run
 
 ```
-python main.py
+python app.py
 ```
