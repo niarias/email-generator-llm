@@ -5,7 +5,7 @@ Welcome to the AI-Powered Email Generator project! This innovative tool leverage
 ### Installation
 
 ```
-pip install -requirements.txr
+pip install -r requirements.txt
 ```
 
 ### Run
